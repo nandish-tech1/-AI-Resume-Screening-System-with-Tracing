@@ -1,0 +1,34 @@
+Role: Data Scientist Intern
+
+Responsibilities:
+- Build data cleaning and preprocessing pipelines for structured datasets.
+- Perform exploratory data analysis and communicate findings.
+- Develop and evaluate machine learning models for classification and regression.
+- Collaborate with product and engineering teams to deploy model insights.
+- Document experiments, assumptions, and model limitations.
+
+Required Skills:
+- Python
+- SQL
+- Statistics and hypothesis testing
+- Machine Learning fundamentals
+- Data Visualization
+
+Required Tools/Frameworks:
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib or Seaborn
+- Jupyter Notebook
+- Git
+
+Preferred:
+- Basic cloud exposure (AWS/GCP/Azure)
+- Experience with NLP projects
+- Strong communication and presentation skills
+
+Experience:
+- 0-3 years (internship/project experience acceptable)
+
+Education:
+- Bachelor's degree in Computer Science, Data Science, Statistics, or related field

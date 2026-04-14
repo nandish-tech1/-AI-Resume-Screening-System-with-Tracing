@@ -1,0 +1,25 @@
+Name: Ravi Kumar
+Email: ravi.kumar@email.com
+
+Summary:
+Entry-level analyst with 1 year of internship experience in reporting and basic machine learning.
+
+Skills:
+Python, SQL, Data Analysis, Basic Machine Learning, Data Visualization
+
+Tools:
+Pandas, NumPy, Matplotlib, Jupyter Notebook, Git
+
+Experience:
+- Business Analyst Intern (6 months): prepared weekly dashboards and KPI summaries.
+- Data Intern (6 months): cleaned datasets, performed exploratory analysis, and built a simple regression model.
+
+Education:
+B.Sc in Statistics (2024)
+
+Certifications:
+- Introduction to Data Science
+
+Projects:
+- Sales trend analysis dashboard
+- Student performance prediction

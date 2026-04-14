@@ -1,0 +1,23 @@
+Name: Rajesh Singh
+Email: rajesh.singh@email.com
+
+Summary:
+Recent graduate seeking opportunities in technology and operations.
+
+Skills:
+MS Excel, PowerPoint, Teamwork, Communication
+
+Tools:
+Excel, Google Sheets
+
+Experience:
+- Operations Trainee (4 months): maintained reports and coordinated with teams.
+
+Education:
+BBA (2023)
+
+Certifications:
+- Fundamentals of Digital Marketing
+
+Projects:
+- College event planning report

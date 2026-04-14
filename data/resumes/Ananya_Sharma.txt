@@ -1,0 +1,28 @@
+Name: Ananya Sharma
+Email: ananya.sharma@email.com
+
+Summary:
+Data Science graduate with 2.5 years of internship and project experience in predictive analytics, NLP, and dashboarding.
+
+Skills:
+Python, SQL, Machine Learning, Statistics, Hypothesis Testing, Data Visualization, NLP
+
+Tools:
+Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook, Git, AWS S3
+
+Experience:
+- Data Science Intern at Insight Labs (12 months): built churn prediction models using scikit-learn and improved AUC from 0.71 to 0.84.
+- Research Intern at University AI Lab (8 months): performed text classification for support tickets using TF-IDF and logistic regression.
+- Freelance analytics project (10 months): created SQL + Python reporting pipeline and automated weekly KPI dashboards.
+
+Education:
+B.Tech in Computer Science (2024)
+
+Certifications:
+- Google Data Analytics Professional Certificate
+- Machine Learning Specialization
+
+Projects:
+- Customer churn prediction
+- E-commerce recommendation analysis
+- Resume classification using NLP

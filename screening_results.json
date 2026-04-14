@@ -1,0 +1,391 @@
+{
+  "runs": [
+    {
+      "candidate_name": "Ananya Sharma",
+      "extracted_profile": {
+        "skills": [
+          "Python",
+          "SQL",
+          "Machine Learning",
+          "Statistics",
+          "Hypothesis Testing",
+          "Data Visualization",
+          "NLP"
+        ],
+        "tools": [
+          "Pandas",
+          "NumPy",
+          "Scikit-learn",
+          "Matplotlib",
+          "Seaborn",
+          "Jupyter Notebook",
+          "Git",
+          "AWS S3"
+        ],
+        "experience_summary": "2.5 years of internship and project experience in predictive analytics, NLP, and dashboarding",
+        "experience_years": 2.5,
+        "education": "B.Tech in Computer Science (2024)",
+        "certifications": [
+          "Google Data Analytics Professional Certificate",
+          "Machine Learning Specialization"
+        ],
+        "projects_domains": [
+          "Customer Churn Prediction",
+          "E-commerce Recommendation",
+          "Resume Classification"
+        ],
+        "evidence": [
+          "built churn prediction models using scikit-learn",
+          "performed text classification for support tickets using TF-IDF and logistic regression",
+          "created SQL + Python reporting pipeline and automated weekly KPI dashboards"
+        ]
+      },
+      "match_analysis": {
+        "matched_requirements": [
+          "Python",
+          "SQL",
+          "Statistics and hypothesis testing",
+          "Machine Learning fundamentals",
+          "Data Visualization",
+          "Pandas",
+          "NumPy",
+          "Scikit-learn",
+          "Matplotlib or Seaborn",
+          "Jupyter Notebook",
+          "Git",
+          "0-3 years of experience",
+          "Bachelor's degree in Computer Science or related field"
+        ],
+        "partial_matches": [
+          "Basic cloud exposure (AWS/GCP/Azure)"
+        ],
+        "missing_requirements": [
+          "Explicit evidence of building data cleaning and preprocessing pipelines",
+          "Explicit evidence of performing exploratory data analysis and communicating findings",
+          "Explicit evidence of collaborating with product and engineering teams to deploy model insights",
+          "Explicit evidence of documenting experiments, assumptions, and model limitations"
+        ],
+        "match_rationale": [
+          "The candidate's skills and tools match most of the required skills and tools for the Data Scientist Intern role.",
+          "The candidate has experience in NLP projects, which is a preferred skill.",
+          "The candidate has 2.5 years of internship and project experience, which meets the experience requirement.",
+          "The candidate's education in Computer Science meets the education requirement.",
+          "The candidate has provided evidence of building models and performing text classification, but not explicitly for the required responsibilities."
+        ]
+      },
+      "score": {
+        "fit_score": 87,
+        "score_breakdown": {
+          "skills_tools": 36,
+          "experience": 27,
+          "domain_relevance": 18,
+          "education_certifications": 6
+        },
+        "risk_flags": [
+          "Missing explicit evidence of building data cleaning and preprocessing pipelines",
+          "Missing explicit evidence of performing exploratory data analysis and communicating findings",
+          "Missing explicit evidence of collaborating with product and engineering teams to deploy model insights",
+          "Missing explicit evidence of documenting experiments, assumptions, and model limitations"
+        ]
+      },
+      "explanation": {
+        "decision": "Strong Fit",
+        "why_this_score": [
+          "Ananya Sharma's skills and tools match most of the required skills and tools for the Data Scientist Intern role, with a score of 36 in skills_tools.",
+          "The candidate has relevant experience in predictive analytics, NLP, and dashboarding, with 2.5 years of internship and project experience, contributing to a score of 27 in experience.",
+          "The candidate's education in Computer Science and certifications in data analytics and machine learning specialization support the domain relevance, with a score of 18 in domain_relevance.",
+          "The candidate has provided evidence of building models, performing text classification, and creating reporting pipelines, demonstrating practical application of their skills."
+        ],
+        "improvement_suggestions": [
+          "Provide explicit evidence of building data cleaning and preprocessing pipelines to address the missing requirement.",
+          "Demonstrate experience in performing exploratory data analysis and communicating findings to improve the candidate's profile.",
+          "Highlight collaborations with product and engineering teams to deploy model insights, showcasing ability to work with cross-functional teams.",
+          "Emphasize documenting experiments, assumptions, and model limitations to demonstrate a thorough understanding of the data science process."
+        ]
+      },
+      "debug_flags": []
+    },
+    {
+      "candidate_name": "Priya Patel",
+      "extracted_profile": {
+        "skills": [
+          "Python",
+          "SQL",
+          "Data Analysis",
+          "Basic Machine Learning",
+          "Data Visualization"
+        ],
+        "tools": [
+          "Pandas",
+          "NumPy",
+          "Matplotlib",
+          "Jupyter Notebook",
+          "Git"
+        ],
+        "experience_summary": "Entry-level analyst with internship experience in reporting and basic machine learning",
+        "experience_years": 1,
+        "education": "B.Sc in Statistics (2024)",
+        "certifications": [
+          "Introduction to Data Science"
+        ],
+        "projects_domains": [
+          "Sales trend analysis",
+          "Student performance prediction"
+        ],
+        "evidence": [
+          "Entry-level analyst with 1 year of internship experience in reporting and basic machine learning",
+          "Built a simple regression model",
+          "prepared weekly dashboards and KPI summaries"
+        ]
+      },
+      "match_analysis": {
+        "matched_requirements": [
+          "Python",
+          "SQL",
+          "Data Visualization",
+          "Pandas",
+          "NumPy",
+          "Matplotlib",
+          "Jupyter Notebook",
+          "Git",
+          "Bachelor's degree in Statistics"
+        ],
+        "partial_matches": [
+          "Machine Learning fundamentals",
+          "Statistics and hypothesis testing"
+        ],
+        "missing_requirements": [
+          "Scikit-learn",
+          "Basic cloud exposure (AWS/GCP/Azure)",
+          "Experience with NLP projects",
+          "Strong communication and presentation skills"
+        ],
+        "match_rationale": [
+          "The candidate has explicit experience with Python, SQL, and Data Visualization, which are required skills.",
+          "The candidate has used Pandas, NumPy, Matplotlib, Jupyter Notebook, and Git, which are required tools.",
+          "The candidate has a Bachelor's degree in Statistics, which meets the education requirement.",
+          "The candidate has basic machine learning experience, but it is not clear if they have experience with classification and regression models, hence a partial match.",
+          "The candidate has experience with data analysis, but it is not clear if they have experience with statistics and hypothesis testing, hence a partial match.",
+          "The candidate lacks explicit experience with Scikit-learn, cloud exposure, NLP projects, and strong communication and presentation skills, which are required or preferred."
+        ]
+      },
+      "score": {
+        "fit_score": 67,
+        "score_breakdown": {
+          "skills_tools": 28,
+          "experience": 21,
+          "domain_relevance": 12,
+          "education_certifications": 6
+        },
+        "risk_flags": [
+          "Lack of experience with Scikit-learn",
+          "No cloud exposure",
+          "No experience with NLP projects",
+          "Unclear communication and presentation skills"
+        ]
+      },
+      "explanation": {
+        "decision": "Moderate Fit",
+        "why_this_score": [
+          "Priya Patel has a strong foundation in required skills such as Python, SQL, and Data Visualization, with relevant experience in reporting and basic machine learning.",
+          "She has hands-on experience with essential tools like Pandas, NumPy, Matplotlib, Jupyter Notebook, and Git, which aligns with the job requirements.",
+          "However, she lacks experience with Scikit-learn, cloud exposure, and NLP projects, which are crucial for the role.",
+          "Additionally, her communication and presentation skills are unclear, which may impact her ability to effectively collaborate and present findings."
+        ],
+        "improvement_suggestions": [
+          "Gain experience with Scikit-learn and other machine learning libraries to enhance her technical skills.",
+          "Familiarize herself with cloud platforms like AWS, GCP, or Azure to improve her adaptability and scalability.",
+          "Develop strong communication and presentation skills through practice, training, or certification programs to effectively convey complex ideas and insights."
+        ]
+      },
+      "debug_flags": []
+    },
+    {
+      "candidate_name": "Rajesh Singh",
+      "extracted_profile": {
+        "skills": [
+          "MS Excel",
+          "PowerPoint",
+          "Teamwork",
+          "Communication"
+        ],
+        "tools": [
+          "Excel",
+          "Google Sheets"
+        ],
+        "experience_summary": "Operations Trainee",
+        "experience_years": null,
+        "education": "BBA (2023)",
+        "certifications": [
+          "Fundamentals of Digital Marketing"
+        ],
+        "projects_domains": [
+          "Event Planning"
+        ],
+        "evidence": [
+          "maintained reports and coordinated with teams",
+          "College event planning report"
+        ]
+      },
+      "match_analysis": {
+        "matched_requirements": [],
+        "partial_matches": [],
+        "missing_requirements": [
+          "Python",
+          "SQL",
+          "Statistics and hypothesis testing",
+          "Machine Learning fundamentals",
+          "Data Visualization",
+          "Pandas",
+          "NumPy",
+          "Scikit-learn",
+          "Matplotlib or Seaborn",
+          "Jupyter Notebook",
+          "Git",
+          "Bachelor's degree in Computer Science, Data Science, Statistics, or related field",
+          "Experience in data science or related field"
+        ],
+        "match_rationale": [
+          "The candidate's skills do not match the required skills for the Data Scientist Intern role.",
+          "The candidate's tools do not match the required tools for the Data Scientist Intern role.",
+          "The candidate's education does not match the required education for the Data Scientist Intern role.",
+          "The candidate's experience summary does not indicate any relevant experience for the Data Scientist Intern role."
+        ]
+      },
+      "score": {
+        "fit_score": 0,
+        "score_breakdown": {
+          "skills_tools": 0,
+          "experience": 0,
+          "domain_relevance": 0,
+          "education_certifications": 0
+        },
+        "risk_flags": [
+          "No relevant skills",
+          "No relevant tools",
+          "No relevant experience",
+          "No relevant education or certifications",
+          "No relevant projects or domains"
+        ]
+      },
+      "explanation": {
+        "decision": "Low Fit",
+        "why_this_score": [
+          "The candidate lacks relevant skills for the Data Scientist Intern role, with no evidence of proficiency in required skills like Python, SQL, or Machine Learning fundamentals.",
+          "The candidate's tools, such as Excel and Google Sheets, do not match the required tools for the role, including Pandas, NumPy, or Jupyter Notebook.",
+          "The candidate's education, a BBA degree, does not align with the required education for the role, which is a Bachelor's degree in Computer Science, Data Science, Statistics, or a related field.",
+          "The candidate's experience summary as an Operations Trainee does not indicate any relevant experience for the Data Scientist Intern role."
+        ],
+        "improvement_suggestions": [
+          "Acquire skills in programming languages like Python, and data analysis tools like SQL and Pandas.",
+          "Pursue education or certifications in Computer Science, Data Science, or Statistics to enhance relevance for the Data Scientist Intern role.",
+          "Gain experience in data science or related fields through internships, projects, or volunteer work to build a relevant experience summary."
+        ]
+      },
+      "debug_flags": []
+    },
+    {
+      "candidate_name": "Ananya Sharma (Debug Run)",
+      "extracted_profile": {
+        "skills": [
+          "Python",
+          "SQL",
+          "Machine Learning",
+          "Statistics",
+          "Hypothesis Testing",
+          "Data Visualization",
+          "NLP"
+        ],
+        "tools": [
+          "Pandas",
+          "NumPy",
+          "Scikit-learn",
+          "Matplotlib",
+          "Seaborn",
+          "Jupyter Notebook",
+          "Git",
+          "AWS S3"
+        ],
+        "experience_summary": "2.5 years of internship and project experience in predictive analytics, NLP, and dashboarding",
+        "experience_years": 2.5,
+        "education": "B.Tech in Computer Science (2024)",
+        "certifications": [
+          "Google Data Analytics Professional Certificate",
+          "Machine Learning Specialization"
+        ],
+        "projects_domains": [
+          "Customer Churn Prediction",
+          "E-commerce Recommendation",
+          "Resume Classification"
+        ],
+        "evidence": [
+          "built churn prediction models using scikit-learn",
+          "performed text classification for support tickets using TF-IDF and logistic regression",
+          "created SQL + Python reporting pipeline and automated weekly KPI dashboards"
+        ]
+      },
+      "match_analysis": {
+        "matched_requirements": [
+          "Python",
+          "SQL",
+          "Statistics and hypothesis testing",
+          "Machine Learning fundamentals",
+          "Data Visualization",
+          "Pandas",
+          "NumPy",
+          "Scikit-learn",
+          "Matplotlib or Seaborn",
+          "Jupyter Notebook",
+          "Git",
+          "0-3 years of experience",
+          "Bachelor's degree in Computer Science or related field"
+        ],
+        "partial_matches": [
+          "Basic cloud exposure (AWS/GCP/Azure)"
+        ],
+        "missing_requirements": [
+          "Explicit evidence of building data cleaning and preprocessing pipelines",
+          "Explicit evidence of performing exploratory data analysis and communicating findings",
+          "Explicit evidence of developing and evaluating machine learning models for classification and regression",
+          "Explicit evidence of collaborating with product and engineering teams to deploy model insights",
+          "Explicit evidence of documenting experiments, assumptions, and model limitations"
+        ],
+        "match_rationale": [
+          "The candidate's skills and tools match most of the required skills and tools for the Data Scientist Intern role.",
+          "The candidate has relevant experience in predictive analytics, NLP, and dashboarding, but lacks explicit evidence of some key responsibilities.",
+          "The candidate's education and experience years match the requirements."
+        ]
+      },
+      "score": {
+        "fit_score": 83,
+        "score_breakdown": {
+          "skills_tools": 36,
+          "experience": 27,
+          "domain_relevance": 16,
+          "education_certifications": 4
+        },
+        "risk_flags": [
+          "Lack of explicit evidence of building data cleaning and preprocessing pipelines",
+          "Lack of explicit evidence of performing exploratory data analysis and communicating findings",
+          "Lack of explicit evidence of developing and evaluating machine learning models for classification and regression",
+          "Lack of explicit evidence of collaborating with product and engineering teams to deploy model insights",
+          "Lack of explicit evidence of documenting experiments, assumptions, and model limitations"
+        ]
+      },
+      "explanation": {
+        "decision": "Moderate Fit",
+        "why_this_score": [
+          "Ananya Sharma's skills and tools, such as Python, SQL, Machine Learning, and relevant libraries, align with most of the required skills for the Data Scientist Intern role.",
+          "The candidate has 2.5 years of relevant experience in predictive analytics, NLP, and dashboarding, with evidence of building models and creating reporting pipelines.",
+          "However, there are gaps in explicit evidence of key responsibilities, including building data cleaning and preprocessing pipelines, performing exploratory data analysis, and collaborating with product and engineering teams."
+        ],
+        "improvement_suggestions": [
+          "Provide explicit examples of building data cleaning and preprocessing pipelines in previous projects or experiences.",
+          "Highlight instances of performing exploratory data analysis and communicating findings to stakeholders.",
+          "Emphasize any experience or skills related to collaborating with cross-functional teams, such as product and engineering, to deploy model insights."
+        ]
+      },
+      "debug_flags": []
+    }
+  ]
+}
