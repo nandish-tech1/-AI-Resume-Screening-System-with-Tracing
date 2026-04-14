@@ -125,21 +125,6 @@ Resume Input → Extraction → Matching → Scoring → Explanation → LangSmi
 
 ---
 
-## ✅ Compliance
-
-This project follows all assignment requirements:
-
-| Requirement | Status |
-|-------------|--------|
-| ❌ No hardcoded outputs | ✅ All scores from LLM |
-| ❌ No hallucinated assumptions | ✅ Anti-hallucination prompts + detection |
-| ❌ No incomplete pipeline | ✅ 4-stage complete pipeline |
-| ✅ Must include tracing | ✅ LANGCHAIN_TRACING_V2=true + tags |
-| ✅ Must include explanation | ✅ Scoring breakdown + reasoning |
-
-See `COMPLIANCE_REPORT.md` for detailed verification.
-
----
 
 ## 📊 Sample Output
 
